@@ -145,7 +145,7 @@ article a {
 .card img {
     width: 100%; /* Faz a imagem ocupar 100% da largura do card */
     height: auto; /* A altura se ajusta automaticamente para manter a proporção */
-    max-height: 250px; /* Define uma altura máxima para não ficar muito grande */
+    max-height: 504px; /* Define uma altura máxima para não ficar muito grande */
     object-fit: cover; /* Garante que a imagem cubra a área sem distorcer */
     border-radius: 8px; /* Adiciona bordas arredondadas para um visual mais suave */
     margin-top: 1rem; /* Adiciona um espaço acima da imagem */
