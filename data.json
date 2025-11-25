@@ -1,6 +1,6 @@
 [
   {
-    "nome": "TESTE2",
+    "nome": "Sonic Adventure",
     "descricao": "O primeiro grande jogo 3D do ouriço, lançado para Dreamcast, introduzindo o Chao Garden.",
     "ano": "1998",
     "link": "https://www.sega.com/games/sonic-adventure",
@@ -287,7 +287,8 @@
       "Party Game",
       "Crossover",
       "Wii"
-    ]
+    ],
+    "imagem": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_MarioAndSonicAtTheRio2016_enGB_image1600w.jpg"
   },
   {
     "nome": "Sonic Dash",
@@ -299,7 +300,8 @@
       "Corrida Infinita",
       "Endless Runner",
       "Arcade"
-    ]
+    ],
+    "imagem": "https://i.ytimg.com/vi/Nndnn_RRwjY/maxresdefault.jpg"
   },
   {
     "nome": "Sonic X Shadow Generations",
