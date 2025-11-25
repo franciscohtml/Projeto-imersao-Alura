@@ -1,0 +1,329 @@
+[
+  {
+    "nome": "TESTE",
+    "descricao": "O primeiro grande jogo 3D do ouriço, lançado para Dreamcast, introduzindo o Chao Garden.",
+    "ano": "1998",
+    "link": "https://www.sega.com/games/sonic-adventure",
+    "tags": [
+      "Plataforma 3D",
+      "Aventura",
+      "Sega",
+      "Ação"
+    ]
+  },
+  {
+    "nome": "Sonic Adventure 2",
+    "descricao": "Sequência focada na rivalidade entre Sonic e Shadow, com jogabilidade dividida em Heróis e Vilões.",
+    "ano": "2001",
+    "link": "https://www.sega.com/games/sonic-adventure-2",
+    "tags": [
+      "Plataforma 3D",
+      "Ação",
+      "Corrida",
+      "Coleta"
+    ]
+  },
+  {
+    "nome": "Sonic Heroes",
+    "descricao": "Jogo que utiliza um sistema de formação de equipes de três personagens com habilidades distintas (Velocidade, Voo, Poder).",
+    "ano": "2003",
+    "link": "https://www.sega.com/games/sonic-heroes",
+    "tags": [
+      "Ação",
+      "Plataforma",
+      "Equipe",
+      "3D"
+    ]
+  },
+  {
+    "nome": "Shadow the Hedgehog",
+    "descricao": "Spin-off focado no personagem Shadow, introduzindo elementos de tiro e múltiplos finais morais.",
+    "ano": "2005",
+    "link": "https://www.sega.com/games/shadow-the-hedgehog",
+    "tags": [
+      "Tiro em Terceira Pessoa",
+      "Ação",
+      "Drama",
+      "Plataforma"
+    ]
+  },
+  {
+    "nome": "Sonic Riders",
+    "descricao": "Jogo de corrida utilizando 'Extreme Gear' (pranchas e skates aéreos) em vez de karts.",
+    "ano": "2006",
+    "link": "https://www.sega.com/games/sonic-riders",
+    "tags": [
+      "Corrida",
+      "Arcade",
+      "Esportes",
+      "Ficção Científica"
+    ]
+  },
+  {
+    "nome": "Sonic the Hedgehog (2006)",
+    "descricao": "Conhecido como 'Sonic 06', uma tentativa de reboot da franquia com foco em elementos dramáticos e realistas.",
+    "ano": "2006",
+    "link": "https://www.sega.com/sonic-06-info",
+    "tags": [
+      "Plataforma 3D",
+      "Aventura",
+      "Fantasia",
+      "Ação",
+      "Reboot"
+    ]
+  },
+  {
+    "nome": "Sonic and the Secret Rings",
+    "descricao": "Primeiro jogo da série Storybook, exclusivo para Wii, ambientado no mundo das Mil e Uma Noites.",
+    "ano": "2007",
+    "link": "https://www.sega.com/games/secret-rings",
+    "tags": [
+      "Plataforma",
+      "Wii",
+      "Aventura",
+      "Corrida Infinita"
+    ]
+  },
+  {
+    "nome": "Sonic Unleashed",
+    "descricao": "Mistura jogabilidade 3D de alta velocidade diurna com combates em estilo 'hack and slash' noturnos com o Werehog.",
+    "ano": "2008",
+    "link": "https://www.sega.com/games/sonic-unleashed",
+    "tags": [
+      "Ação",
+      "Plataforma",
+      "Velocidade",
+      "Hack and Slash"
+    ]
+  },
+  {
+    "nome": "Sonic and the Black Knight",
+    "descricao": "Segundo jogo da série Storybook, ambientado no universo das lendas Arturianas.",
+    "ano": "2009",
+    "link": "https://www.sega.com/games/black-knight",
+    "tags": [
+      "Aventura",
+      "Espada",
+      "Fantasia Medieval",
+      "Wii"
+    ]
+  },
+  {
+    "nome": "Sonic Colors",
+    "descricao": "Introduziu os 'Wisps', criaturas alienígenas que fornecem poderes temporários e coloridos.",
+    "ano": "2010",
+    "link": "https://www.sega.com/games/sonic-colors",
+    "tags": [
+      "Plataforma 3D",
+      "Ação",
+      "Wii",
+      "Velocidade"
+    ]
+  },
+  {
+    "nome": "Sonic Generations",
+    "descricao": "Comemoração de 20 anos da franquia, misturando fases clássicas em 2D e fases modernas em 3D.",
+    "ano": "2011",
+    "link": "https://www.sega.com/games/sonic-generations",
+    "tags": [
+      "Aniversário",
+      "Plataforma",
+      "2D",
+      "3D",
+      "Velocidade"
+    ]
+  },
+  {
+    "nome": "Sonic Lost World",
+    "descricao": "Adotou um estilo de exploração mais parecido com Mario Galaxy, com níveis cilíndricos e um novo sistema de parkour.",
+    "ano": "2013",
+    "link": "https://www.sega.com/games/sonic-lost-world",
+    "tags": [
+      "Plataforma",
+      "Parkour",
+      "Aventura",
+      "Nintendo"
+    ]
+  },
+  {
+    "nome": "Sonic Boom: Rise of Lyric",
+    "descricao": "Jogo principal da subsérie 'Sonic Boom', focado em combate, exploração e resolução de quebra-cabeças.",
+    "ano": "2014",
+    "link": "https://www.sega.com/games/sonic-boom",
+    "tags": [
+      "Ação",
+      "Co-op",
+      "Exploração",
+      "Wii U"
+    ]
+  },
+  {
+    "nome": "Sonic Runners",
+    "descricao": "Jogo mobile de corrida infinita com foco na coleta de anéis e uso de companheiros (Buddies).",
+    "ano": "2015",
+    "link": "https://www.sega.com/games/sonic-runners",
+    "tags": [
+      "Mobile",
+      "Corrida Infinita",
+      "Arcade",
+      "Plataforma"
+    ]
+  },
+  {
+    "nome": "Sonic Mania",
+    "descricao": "Um retorno espiritual à jogabilidade clássica 2D, desenvolvido por fãs, mas com o selo oficial da SEGA.",
+    "ano": "2017",
+    "link": "https://www.sega.com/games/sonic-mania",
+    "tags": [
+      "Plataforma 2D",
+      "Retrô",
+      "Pixel Art",
+      "Independente"
+    ]
+  },
+  {
+    "nome": "Sonic Forces",
+    "descricao": "Jogo que permite a criação de um avatar personalizado que luta ao lado dos Sonics Clássico e Moderno.",
+    "ano": "2017",
+    "link": "https://www.sega.com/games/sonic-forces",
+    "tags": [
+      "Plataforma 3D",
+      "Ação",
+      "Criação de Personagem",
+      "Guerra"
+    ]
+  },
+  {
+    "nome": "Team Sonic Racing",
+    "descricao": "Focado em corridas de kart em equipe, onde os jogadores compartilham power-ups e aceleram uns aos outros.",
+    "ano": "2019",
+    "link": "https://www.sega.com/games/team-sonic-racing",
+    "tags": [
+      "Corrida",
+      "Multiplayer",
+      "Kart",
+      "Trabalho em Equipe"
+    ]
+  },
+  {
+    "nome": "Sonic Frontiers",
+    "descricao": "O primeiro jogo de 'zona aberta' da série, ambientado nas ilhas Starfall, misturando exploração e combate intenso.",
+    "ano": "2022",
+    "link": "https://www.sonicthehedgehog.com/frontiers",
+    "tags": [
+      "Mundo Aberto",
+      "Plataforma 3D",
+      "Ação",
+      "Exploração"
+    ]
+  },
+  {
+    "nome": "Sonic Superstars",
+    "descricao": "Novo título 2D que mantém o estilo clássico, mas com gráficos poligonais e modo cooperativo para 4 jogadores.",
+    "ano": "2023",
+    "link": "https://www.sonicsuperstars.com",
+    "tags": [
+      "Plataforma 2D",
+      "Multiplayer Local",
+      "Co-op",
+      "Gráficos Modernos"
+    ]
+  },
+  {
+    "nome": "Sonic Rush",
+    "descricao": "Jogo 2D/3D híbrido para Nintendo DS, notável por sua alta velocidade e a introdução da Blaze the Cat.",
+    "ano": "2005",
+    "link": "https://www.sega.com/games/sonic-rush",
+    "tags": [
+      "Plataforma 2D",
+      "Nintendo DS",
+      "Velocidade",
+      "Portátil"
+    ]
+  },
+  {
+    "nome": "Sonic Rivals",
+    "descricao": "Jogo de corrida e plataforma 2.5D para PSP, focado em duelos um contra um em alta velocidade.",
+    "ano": "2006",
+    "link": "https://www.sega.com/games/sonic-rivals",
+    "tags": [
+      "Corrida",
+      "Plataforma 2.5D",
+      "PSP",
+      "Portátil"
+    ]
+  },
+  {
+    "nome": "Sonic Chronicles: The Dark Brotherhood",
+    "descricao": "Único RPG de turno da franquia, desenvolvido pela BioWare, com foco em narrativa e equipes.",
+    "ano": "2008",
+    "link": "https://www.sega.com/games/sonic-chronicles",
+    "tags": [
+      "RPG",
+      "Turno",
+      "Narrativa",
+      "BioWare"
+    ]
+  },
+  {
+    "nome": "Sonic & Sega All-Stars Racing",
+    "descricao": "Jogo de corrida de karts que inclui personagens de diversas franquias da SEGA, não apenas Sonic.",
+    "ano": "2010",
+    "link": "https://www.sega.com/games/all-stars-racing",
+    "tags": [
+      "Corrida",
+      "Crossover",
+      "Arcade",
+      "Multiplayer"
+    ]
+  },
+  {
+    "nome": "Mario & Sonic at the Olympic Games",
+    "descricao": "Crossover esportivo que uniu as mascotes da Nintendo e SEGA para competir em eventos olímpicos.",
+    "ano": "2007",
+    "link": "https://www.sega.com/games/mario-sonic-olympics",
+    "tags": [
+      "Esportes",
+      "Party Game",
+      "Crossover",
+      "Wii"
+    ]
+  },
+  {
+    "nome": "Sonic Dash",
+    "descricao": "Popular jogo mobile de corrida infinita (endless runner) em 3D, sendo um dos mais baixados da franquia.",
+    "ano": "2013",
+    "link": "https://www.sega.com/games/sonic-dash",
+    "tags": [
+      "Mobile",
+      "Corrida Infinita",
+      "Endless Runner",
+      "Arcade"
+    ]
+  },
+  {
+    "nome": "Sonic X Shadow Generations",
+    "descricao": "Remasterização de Sonic Generations com uma nova campanha focada no Shadow.",
+    "ano": "2024",
+    "link": "https://pt.wikipedia.org/wiki/Sonic_Generations",
+    "tags": [
+      "Plataforma",
+      "2D",
+      "3D",
+      "Remaster"
+    ],
+    "imagem": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000069536/62d840ef779d25a962d0a7710a5b3e46e27df886bcfba7997ee65395da7efaac"
+  },
+  {
+    "nome": "Sonic Mania Plus",
+    "descricao": "Versão aprimorada de Sonic Mania com novos personagens (Mighty e Ray) e um novo modo de jogo.",
+    "ano": "2018",
+    "link": "https://pt.wikipedia.org/wiki/Sonic_Mania",
+    "tags": [
+      "Plataforma 2D",
+      "Retrô",
+      "Pixel Art"
+    ],
+    "imagem": "https://cdn-ext.fanatical.com/production/product/1280x720/efccfedc-2c5e-4164-84db-d18d38ee70ee.png"
+  }
+]
